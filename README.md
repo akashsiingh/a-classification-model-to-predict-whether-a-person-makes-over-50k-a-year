@@ -1,1 +1,3 @@
-# Bank-Magement-System
+#Bank-Mangement-System Project
+
+Made by - Akash Kumar Singh
