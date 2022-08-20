@@ -1,3 +1,3 @@
-#Bank-Management-System Project
+# Prediction Project
 
 Made by - Akash Kumar Singh
